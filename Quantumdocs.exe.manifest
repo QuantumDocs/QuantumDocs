@@ -66,12 +66,5 @@
     </dependentAssembly>
   </dependency>
   <file name="dfMonitor.exe.config" size="351">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>6XVMzDISmdfswBXpVkuB7HTJj3Y=</dsig:DigestValue>
-    </hash>
   </file>
 </asmv1:assembly>
